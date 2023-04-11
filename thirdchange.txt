@@ -1,0 +1,7 @@
+adding a sorting array
+
+
+foreach(char a in weather(
+{
+  *******************************
+}
